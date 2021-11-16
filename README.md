@@ -4,7 +4,6 @@
 
 Official PyTorch code for the paper:  [*TransFG: A Transformer Architecture for Fine-grained Recognition*](https://arxiv.org/abs/2103.07976)  
 
-Implementation based on [DeiT](https://arxiv.org/abs/2012.12877) pretrained on ImageNet-1K with distillation fine-tuning will be released soon.
 
 ## Framework
 
@@ -59,7 +58,7 @@ If you find our work helpful in your research, please cite it as:
 ```
 @article{he2021transfg,
   title={TransFG: A Transformer Architecture for Fine-grained Recognition},
-  author={He, Ju and Chen, Jieneng and Liu, Shuai and Kortylewski, Adam and Yang, Cheng and Bai, Yutong and Wang, Changhu and Yuille, Alan},
+  author={He, Ju and Chen, Jie-Neng and Liu, Shuai and Kortylewski, Adam and Yang, Cheng and Bai, Yutong and Wang, Changhu and Yuille, Alan},
   journal={arXiv preprint arXiv:2103.07976},
   year={2021}
 }
